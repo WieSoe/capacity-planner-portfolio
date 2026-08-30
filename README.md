@@ -83,11 +83,12 @@ Sprint Forecast
 
 Quarterly Planning
 
-![Quarterly Planning](images/demo-quarterly-planning.png)
+![Monte Carlo Throughput](images/demo-monte-carlo-throughput.png)
 
 Monte Carlo Throughput
 
-![Monte Carlo Throughput](images/demo-monte-carlo-throughput.png)
+![Quarterly Planning](images/demo-quarterly-planning.png)
+
 
 ## How to use
 1. Upload your absence file in the sidebar.
