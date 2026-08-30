@@ -76,6 +76,19 @@ Run the full integration app when you want live Jira-based planning.
 python3 -m streamlit run app_integration.py
 ```
 
+## Visual Demo
+Sprint Forecast
+
+![Sprint Forecast](images/demo-sprint-forecast.png)
+
+Quarterly Planning
+
+![Quarterly Planning](images/demo-quarterly-planning.png)
+
+Monte Carlo Throughput
+
+![Monte Carlo Throughput](images/demo-monte-carlo-throughput.png)
+
 ## How to use
 1. Upload your absence file in the sidebar.
 2. Enter your Jira board ID and click **Load Sprints**.
