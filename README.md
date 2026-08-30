@@ -67,6 +67,15 @@ Accepts any absence file in CSV or XLSX format. No specific HR tool required.
    python3 -m streamlit run app.py
    ```
 
+   This opens the portfolio click-dummy mode by default (no Jira or absence file setup required).
+
+## Advanced Mode (Jira Integration)
+Run the full integration app when you want live Jira-based planning.
+
+```bash
+python3 -m streamlit run app_integration.py
+```
+
 ## How to use
 1. Upload your absence file in the sidebar.
 2. Enter your Jira board ID and click **Load Sprints**.
